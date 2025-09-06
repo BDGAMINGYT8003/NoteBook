@@ -1,0 +1,12 @@
+{
+  "name": "nsfw-anime-gallery-bot",
+  "version": "1.0.0",
+  "description": "A Discord bot for NSFW anime images using discord.js v14 and Components V2.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.15.3"
+  }
+}
